@@ -1,4 +1,4 @@
 # FirstRepo-mine
 This is my first github repository.
 <br>
-Author-Khizra Nasir
+Author-Khizra Nasir (git project)
